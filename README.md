@@ -48,7 +48,7 @@ The dashboard provides:
 - Business Analytics
 
 ## 📈 Dashboard Insights
-This dashboard helps businesses:
+This dashboard helps businesses:<br>
 ✅ Identify high-performing regions<br>
 ✅ Analyze customer purchasing patterns<br>
 ✅ Track sales and profit growth trends<br>
@@ -57,10 +57,11 @@ This dashboard helps businesses:
 ✅ Monitor segment-wise business performance<br>
 ✅ Support strategic decision-making
 
-📂 Project Files
-- Anagha_Sales Data Analysis Report.xlsx      → Main Interactive Dashboard
-- Sales_Data.xlsx                             → Source Dataset
-- Snapshots/                                  → Dashboard Screenshots
+## 📂 Project Files
+📂 Anagha_Sales Data Analysis Report.xlsx     → Main Interactive Dashboard<br>
+📂 Sales_Data.xlsx                             → Source Dataset<br>
+📂 ExcelDashboard.png                                → Dashboard Screenshots<br>
+📂<a href="https://github.com/anaghasunil/AnaghaSunil_Portfolio/blob/main/Anagha_Sales%20Data%20Analysis%20Report.xlsx">Sales Data Analysis Report.xlsx</a>
 
 
 
