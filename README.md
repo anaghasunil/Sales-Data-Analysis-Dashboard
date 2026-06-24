@@ -5,14 +5,14 @@ An interactive Sales Data Analysis Dashboard built in Microsoft Excel to analyze
 This dashboard provides a comprehensive view of sales operations using transactional sales data. It helps identify top-performing products, customers, regions, and shipping modes while tracking profitability trends across different business segments.
 
 ## ✨ Key Highlights
-- 📈 Sales Performance Analysis
-- 💰 Profitability Tracking
-- 🌎 Regional Sales Comparison
-- 👥 Customer Behavior Analysis
-- 🚚 Shipping Mode Performance
-- 🛍 Product Category Insights
-- 📅 Monthly Sales Trend Analysis
-- 🎛 Interactive Slicers & Filters
+📈 Sales Performance Analysis
+💰 Profitability Tracking
+🌎 Regional Sales Comparison
+👥 Customer Behavior Analysis
+🚚 Shipping Mode Performance
+🛍 Product Category Insights
+📅 Monthly Sales Trend Analysis
+🎛 Interactive Slicers & Filters
 
 ## 📊 Dashboard KPIs
 The dashboard provides:
@@ -58,10 +58,10 @@ This dashboard helps businesses:<br>
 ✅ Support strategic decision-making
 
 ## 📂 Project Files
-📂<a href="https://github.com/anaghasunil/AnaghaSunil_Portfolio/blob/main/Anagha_Sales%20Data%20Analysis%20Report.xlsx">Sales Data Analysis Report.xlsx</a>
+📂<a href="https://github.com/anaghasunil/AnaghaSunil_Portfolio/blob/main/Anagha_Sales%20Data%20Analysis%20Report.xlsx">Sales Data Analysis Report.xlsx</a><br>
 https://github.com/anaghasunil/AnaghaSunil_Portfolio/blob/main/Sample%20-%20standard%20data.xlsx
-📂<a href="https://github.com/anaghasunil/AnaghaSunil_Portfolio/blob/main/Sample%20-%20standard%20data.xlsx">Dataset.xlsx</a> 
-📂<a href="https://github.com/anaghasunil/AnaghaSunil_Portfolio/blob/main/ExcelDashboard.png">Snapshots</a> 
+📂<a href="https://github.com/anaghasunil/AnaghaSunil_Portfolio/blob/main/Sample%20-%20standard%20data.xlsx">Dataset.xlsx</a><br>
+📂<a href="https://github.com/anaghasunil/AnaghaSunil_Portfolio/blob/main/ExcelDashboard.png">Snapshots</a><br>
 
 
 
@@ -71,6 +71,7 @@ https://github.com/anaghasunil/AnaghaSunil_Portfolio/blob/main/Sample%20-%20stan
 ## 👨‍💻 About the Author
 #### Anagha Sunil
 Data Analyst | Excel | Power BI | SQL | Python<br>
+
 Passionate about transforming raw data into meaningful business insights through interactive dashboards and analytics.<br>
 🔗<a href="http://www.linkedin.com/in/anagha-sunil-113870210">LinkedIn</a> | 
 <a href="https://github.com/anaghasunil">GitHub</a>
