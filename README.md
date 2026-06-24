@@ -58,18 +58,20 @@ This dashboard helps businesses:<br>
 ✅ Support strategic decision-making
 
 ## 📂 Project Files
-📂 Anagha_Sales Data Analysis Report.xlsx     → Main Interactive Dashboard<br>
-📂 Sales_Data.xlsx                             → Source Dataset<br>
-📂 ExcelDashboard.png                                → Dashboard Screenshots<br>
 📂<a href="https://github.com/anaghasunil/AnaghaSunil_Portfolio/blob/main/Anagha_Sales%20Data%20Analysis%20Report.xlsx">Sales Data Analysis Report.xlsx</a>
-
-
-
-
-
-
+https://github.com/anaghasunil/AnaghaSunil_Portfolio/blob/main/Sample%20-%20standard%20data.xlsx
+📂<a href="https://github.com/anaghasunil/AnaghaSunil_Portfolio/blob/main/Sample%20-%20standard%20data.xlsx">Dataset.xlsx</a> 
+📂<a href="https://github.com/anaghasunil/AnaghaSunil_Portfolio/blob/main/ExcelDashboard.png">Snapshots</a> 
 
 
 
 # 🖼 Dashboard Preview
 ![Dashboard](ExcelDashboard.png)
+
+## 👨‍💻 About the Author
+#### Anagha Sunil
+Data Analyst | Excel | Power BI | SQL | Python<br>
+Passionate about transforming raw data into meaningful business insights through interactive dashboards and analytics.<br>
+🔗<a href="http://www.linkedin.com/in/anagha-sunil-113870210">LinkedIn</a> | 
+<a href="https://github.com/anaghasunil">GitHub</a>
+
